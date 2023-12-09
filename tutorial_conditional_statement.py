@@ -1,23 +1,23 @@
 
 # Test for Odd / Even
-# number = 7
-#
-# if number % 2 == 0:
-#     print('Number is even')
-# else:
-#     print('Number is Odd')
+number = 7
+
+if number % 2 == 0:
+    print('Number is even')
+else:
+    print('Number is Odd')
 
 
 
 #Test if a number is positive / Negative
-# number = 0
-#
-# if number > 0: # False
-#     print('Number is a positive number')
-# elif number < 0: # False
-#     print('Number is a negative number')
-# else:
-#     print('Number is Zero')
+number = 0
+
+if number > 0: # False
+    print('Number is a positive number')
+elif number < 0: # False
+    print('Number is a negative number')
+else:
+    print('Number is Zero')
 
 
 # Nested If - Else
